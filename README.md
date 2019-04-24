@@ -2,7 +2,7 @@
 ### Healthy, Wealthy & Wise
 
 ## Contributors
-https://github.com/tayaaa | https://github.com/jtrader |
+https://github.com/tayaaaa | https://github.com/jtrader |
 |-----------|-----------|
 | Taya Lacey | Jack Oswald |
 
